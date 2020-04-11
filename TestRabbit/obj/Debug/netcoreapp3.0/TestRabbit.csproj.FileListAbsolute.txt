@@ -1,0 +1,15 @@
+E:\RabbitMQ\RabbitMQAndXunit\TestRabbit\bin\Debug\netcoreapp3.0\TestRabbit.exe
+E:\RabbitMQ\RabbitMQAndXunit\TestRabbit\bin\Debug\netcoreapp3.0\TestRabbit.deps.json
+E:\RabbitMQ\RabbitMQAndXunit\TestRabbit\bin\Debug\netcoreapp3.0\TestRabbit.runtimeconfig.json
+E:\RabbitMQ\RabbitMQAndXunit\TestRabbit\bin\Debug\netcoreapp3.0\TestRabbit.runtimeconfig.dev.json
+E:\RabbitMQ\RabbitMQAndXunit\TestRabbit\bin\Debug\netcoreapp3.0\TestRabbit.dll
+E:\RabbitMQ\RabbitMQAndXunit\TestRabbit\bin\Debug\netcoreapp3.0\TestRabbit.pdb
+E:\RabbitMQ\RabbitMQAndXunit\TestRabbit\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\RabbitMQ\RabbitMQAndXunit\TestRabbit\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+E:\RabbitMQ\RabbitMQAndXunit\TestRabbit\obj\Debug\netcoreapp3.0\TestRabbit.csprojAssemblyReference.cache
+E:\RabbitMQ\RabbitMQAndXunit\TestRabbit\obj\Debug\netcoreapp3.0\TestRabbit.AssemblyInfoInputs.cache
+E:\RabbitMQ\RabbitMQAndXunit\TestRabbit\obj\Debug\netcoreapp3.0\TestRabbit.AssemblyInfo.cs
+E:\RabbitMQ\RabbitMQAndXunit\TestRabbit\obj\Debug\netcoreapp3.0\TestRabbit.csproj.CopyComplete
+E:\RabbitMQ\RabbitMQAndXunit\TestRabbit\obj\Debug\netcoreapp3.0\TestRabbit.dll
+E:\RabbitMQ\RabbitMQAndXunit\TestRabbit\obj\Debug\netcoreapp3.0\TestRabbit.pdb
+E:\RabbitMQ\RabbitMQAndXunit\TestRabbit\obj\Debug\netcoreapp3.0\TestRabbit.genruntimeconfig.cache
