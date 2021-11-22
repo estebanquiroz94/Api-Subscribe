@@ -10,6 +10,7 @@ namespace TestRabbit
     {
         public AllProducts FullProducts { get; set; }
         public string Run(string data);
+        public string Ejecutar();
     }
 
     public class ProcessDefault : IProcess
@@ -20,6 +21,11 @@ namespace TestRabbit
             FullProducts.Products = new List<Product>();
         }
         public AllProducts FullProducts { get; set; }
+
+        public string Ejecutar()
+        {
+            throw new System.NotImplementedException();
+        }
 
         public string Run(string data)
         {
